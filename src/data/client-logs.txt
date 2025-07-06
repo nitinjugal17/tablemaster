@@ -1,0 +1,519 @@
+[2025-06-20T10:35:08.343Z] [CLIENT] [INFO] User added item to cart from public menu. Details: {"itemId":"1","itemName":"Margherita Pizza","portion":"fixed","price":0}
+[2025-06-20T10:35:14.260Z] [CLIENT] [INFO] User added item to cart from public menu. Details: {"itemId":"1","itemName":"Margherita Pizza","portion":"fixed","price":0}
+[2025-06-20T10:35:55.140Z] [CLIENT] [INFO] [LoginPage] User attempting login. Details: {"email":"super@example.com"}
+[2025-06-20T10:35:55.450Z] [CLIENT] [INFO] [AuthContext] Attempting login via server action. Details: {"email":"super@example.com"}
+[2025-06-20T10:35:56.069Z] [CLIENT] [INFO] [AuthContext] Login successful via server. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-20T10:35:56.927Z] [CLIENT] [INFO] [LoginPage] User login successful via AuthContext. Details: {"email":"super@example.com","userId":"user-superadmin-001","role":"superadmin"}
+[2025-06-20T10:39:19.258Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-20T10:40:06.710Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-20T10:54:36.578Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-20T11:01:27.991Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-20T11:12:19.327Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-20T11:13:11.500Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-20T11:15:37.924Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-20T11:17:54.439Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-20T11:19:01.941Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-20T11:19:18.346Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-20T11:19:44.064Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-20T11:25:03.391Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-20T11:30:02.862Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-20T11:32:53.361Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-20T11:33:05.574Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-20T11:46:45.595Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-20T11:46:55.259Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-20T11:53:33.967Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-20T11:57:10.989Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-20T11:58:57.665Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-20T12:36:16.952Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-20T13:49:55.581Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T04:21:39.648Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T04:25:00.129Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T04:29:08.251Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-21T04:37:51.933Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T04:44:50.120Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T04:50:31.329Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T04:55:36.432Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T05:10:40.670Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T05:26:12.112Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T05:46:20.687Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T05:48:23.814Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T05:50:10.930Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T05:52:41.962Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T05:53:12.075Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T05:56:39.334Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T05:56:52.824Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T06:01:16.838Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T06:01:26.182Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T06:03:32.554Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T06:08:20.200Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T06:09:20.206Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T06:11:07.980Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T06:12:14.844Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T06:14:09.834Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T06:15:17.191Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T06:17:07.822Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T06:25:24.093Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T06:27:56.292Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T06:51:38.454Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T06:56:04.350Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T07:02:13.082Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T10:46:21.949Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T10:48:20.677Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T10:51:35.559Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T10:51:55.260Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T10:57:08.692Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T10:58:40.981Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T10:59:37.707Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T10:59:55.720Z] [CLIENT] [INFO] User added item to cart from public menu. Details: {"itemId":"1","itemName":"Margherita Pizza","portion":"fixed","price":0}
+[2025-06-21T11:00:11.451Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T11:02:29.798Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T11:02:32.441Z] [CLIENT] [INFO] User added item to cart from public menu. Details: {"itemId":"1","itemName":"Margherita Pizza","portion":"fixed","price":0}
+[2025-06-21T11:02:41.696Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T11:05:08.463Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T11:07:07.224Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T11:25:57.209Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T11:29:45.494Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T11:30:26.229Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T11:31:55.442Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T11:32:03.445Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T11:32:46.010Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T11:33:11.728Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T11:33:46.223Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T11:51:57.765Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T11:55:01.946Z] [CLIENT] [INFO] Admin added item to POS cart. Details: {"itemId":"1","itemName":"Margherita Pizza","portion":"fixed","quantity":1}
+[2025-06-21T11:55:05.201Z] [CLIENT] [INFO] Admin attempting to place new POS order. Details: {"customerName":"Walk-in Guest #0584","itemCount":1,"total":0}
+[2025-06-21T11:55:05.943Z] [CLIENT] [INFO] POS order placed successfully by admin. Details: {"orderId":"POS-3B096E30","customerName":"Walk-in Guest #0584"}
+[2025-06-21T11:59:12.475Z] [CLIENT] [INFO] Admin added item to POS cart. Details: {"itemId":"2","itemName":"Spaghetti Carbonara","portion":"fixed","quantity":1}
+[2025-06-21T11:59:13.004Z] [CLIENT] [INFO] Admin attempting to place new POS order. Details: {"customerName":"Walk-in Guest #5604","itemCount":1,"total":0}
+[2025-06-21T11:59:14.033Z] [CLIENT] [INFO] POS order placed successfully by admin. Details: {"orderId":"POS-32C0B228","customerName":"Walk-in Guest #5604"}
+[2025-06-21T12:00:02.578Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T12:01:00.036Z] [CLIENT] [INFO] Chef attempting to mark order ready. Details: {"orderId":"order456","currentStatus":"Preparing","newStatus":"Ready for Pickup"}
+[2025-06-21T12:01:00.561Z] [CLIENT] [INFO] Chef successfully marked order ready. Details: {"orderId":"order456","newStatus":"Ready for Pickup"}
+[2025-06-21T12:01:04.253Z] [CLIENT] [INFO] Chef attempting to mark order ready. Details: {"orderId":"POS-3B096E30","currentStatus":"Preparing","newStatus":"Ready for Pickup"}
+[2025-06-21T12:01:04.790Z] [CLIENT] [INFO] Chef successfully marked order ready. Details: {"orderId":"POS-3B096E30","newStatus":"Ready for Pickup"}
+[2025-06-21T12:01:12.684Z] [CLIENT] [INFO] Admin viewing invoice (POS). Details: {"orderId":"POS-32C0B228"}
+[2025-06-21T12:01:52.182Z] [CLIENT] [INFO] Admin opened settle payment dialog (POS). Details: {"orderId":"POS-32C0B228"}
+[2025-06-21T12:02:03.985Z] [CLIENT] [INFO] Admin opening order editor (POS). Details: {"orderId":"POS-3B096E30"}
+[2025-06-21T12:08:21.035Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T12:09:00.252Z] [CLIENT] [INFO] Admin viewing invoice (POS). Details: {"orderId":"POS-32C0B228"}
+[2025-06-21T12:09:08.186Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T12:09:14.807Z] [CLIENT] [INFO] Admin viewing invoice (POS). Details: {"orderId":"POS-32C0B228"}
+[2025-06-21T12:09:21.714Z] [CLIENT] [INFO] Admin opening order editor (POS). Details: {"orderId":"POS-3B096E30"}
+[2025-06-21T12:11:54.691Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T12:12:29.947Z] [CLIENT] [INFO] Admin opening order editor (POS). Details: {"orderId":"POS-3B096E30"}
+[2025-06-21T12:17:29.451Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T12:22:30.711Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T12:31:31.856Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T12:33:13.687Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T12:35:15.450Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T12:41:19.234Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T12:47:22.687Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T12:47:58.760Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-21T13:03:19.483Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T13:05:23.771Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T13:05:55.830Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T13:06:21.048Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T13:06:50.434Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T13:09:45.962Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T13:09:54.583Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T13:11:44.459Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T13:25:53.077Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T13:33:35.783Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T14:45:13.972Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T14:51:04.026Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T14:51:55.068Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T15:28:23.810Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T15:28:56.202Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T15:40:20.715Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-21T15:40:58.947Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T15:42:53.452Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-21T15:46:58.203Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T15:57:35.564Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T15:59:07.438Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T16:00:34.939Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T16:02:19.901Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T16:02:22.511Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T16:21:01.338Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T16:21:24.667Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T16:21:30.799Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T16:22:34.836Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T16:22:51.841Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T16:22:58.857Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T16:23:05.500Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T16:23:09.763Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T16:23:15.256Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T16:25:13.182Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T16:25:42.363Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T16:25:46.653Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T16:25:53.915Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T16:26:01.609Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T16:26:06.165Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T16:26:53.234Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T16:27:38.299Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T16:29:26.170Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T16:30:28.574Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T16:31:49.889Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T16:33:06.397Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T16:33:59.118Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T16:34:20.471Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T16:36:13.176Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T16:42:59.456Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T16:44:07.293Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T16:45:05.011Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T16:45:09.456Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T16:49:58.919Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T17:04:25.447Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T17:09:31.816Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T17:09:44.050Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T17:21:42.945Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T17:23:27.178Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T17:30:15.668Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T17:33:12.056Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T17:49:09.012Z] [CLIENT] [INFO] [AuthContext] User initiated logout. Details: {"email":"super@example.com"}
+[2025-06-21T17:49:25.448Z] [CLIENT] [INFO] [LoginPage] User attempting login. Details: {"email":"test@example.com"}
+[2025-06-21T17:49:25.671Z] [CLIENT] [INFO] [AuthContext] Attempting login via server action. Details: {"email":"test@example.com"}
+[2025-06-21T17:49:26.209Z] [CLIENT] [INFO] [AuthContext] Login successful via server. Details: {"email":"test@example.com","role":"superadmin"}
+[2025-06-21T17:49:26.462Z] [CLIENT] [INFO] [LoginPage] User login successful via AuthContext. Details: {"email":"test@example.com","userId":"user-480857c3","role":"superadmin"}
+[2025-06-21T17:49:32.676Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"test@example.com","role":"superadmin"}
+[2025-06-21T17:59:51.184Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"test@example.com","role":"superadmin"}
+[2025-06-21T18:09:28.431Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"test@example.com","role":"superadmin"}
+[2025-06-21T18:55:41.231Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"test@example.com","role":"superadmin"}
+[2025-06-21T19:00:09.678Z] [CLIENT] [INFO] Admin viewing invoice (POS). Details: {"orderId":"POS-32C0B228"}
+[2025-06-21T19:00:17.688Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"test@example.com","role":"superadmin"}
+[2025-06-21T19:00:27.444Z] [CLIENT] [INFO] Admin viewing invoice (POS). Details: {"orderId":"POS-32C0B228"}
+[2025-06-21T19:02:59.028Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"test@example.com","role":"superadmin"}
+[2025-06-21T19:05:32.460Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"test@example.com","role":"superadmin"}
+[2025-06-21T19:07:14.232Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"test@example.com","role":"superadmin"}
+[2025-06-21T19:07:44.453Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"test@example.com","role":"superadmin"}
+[2025-06-21T19:10:26.691Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"test@example.com","role":"superadmin"}
+[2025-06-21T19:13:08.563Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-21T19:13:44.414Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"test@example.com","role":"superadmin"}
+[2025-06-21T19:15:04.552Z] [CLIENT] [INFO] Admin viewing invoice (POS). Details: {"orderId":"POS-32C0B228"}
+[2025-06-21T19:15:27.598Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"test@example.com","role":"superadmin"}
+[2025-06-21T19:17:15.908Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"test@example.com","role":"superadmin"}
+[2025-06-21T19:17:26.688Z] [CLIENT] [INFO] Admin viewing invoice (POS). Details: {"orderId":"POS-32C0B228"}
+[2025-06-21T19:18:34.909Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"test@example.com","role":"superadmin"}
+[2025-06-21T19:19:21.977Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"test@example.com","role":"superadmin"}
+[2025-06-21T19:25:29.654Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"test@example.com","role":"superadmin"}
+[2025-06-21T19:28:17.907Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"test@example.com","role":"superadmin"}
+[2025-06-21T19:31:48.642Z] [CLIENT] [INFO] [AuthContext] User initiated logout. Details: {"email":"test@example.com"}
+[2025-06-21T19:32:03.747Z] [CLIENT] [INFO] [LoginPage] User attempting login. Details: {"email":"super@example.com"}
+[2025-06-21T19:32:03.995Z] [CLIENT] [INFO] [AuthContext] Attempting login via server action. Details: {"email":"super@example.com"}
+[2025-06-21T19:32:24.870Z] [CLIENT] [INFO] [AuthContext] Login successful via server. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T19:32:25.570Z] [CLIENT] [INFO] [LoginPage] User login successful via AuthContext. Details: {"email":"super@example.com","userId":"user-superadmin-001","role":"superadmin"}
+[2025-06-21T19:34:40.197Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T19:41:29.446Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T20:28:33.593Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-21T20:28:59.922Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-21T20:30:34.832Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-21T20:32:09.685Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-21T20:32:49.590Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-21T20:33:01.765Z] [CLIENT] [INFO] [LoginPage] User attempting login. Details: {"email":"super@example.com"}
+[2025-06-21T20:33:02.048Z] [CLIENT] [INFO] [AuthContext] Attempting login via server action. Details: {"email":"super@example.com"}
+[2025-06-21T20:33:02.676Z] [CLIENT] [WARN] [AuthContext] Login failed via server. Details: {"email":"super@example.com","error":"Invalid password."}
+[2025-06-21T20:33:02.929Z] [CLIENT] [WARN] [LoginPage] User login failed via AuthContext. Details: {"email":"super@example.com","error":"Invalid password."}
+[2025-06-21T20:33:09.292Z] [CLIENT] [INFO] [LoginPage] User attempting login. Details: {"email":"super@example.com"}
+[2025-06-21T20:33:09.714Z] [CLIENT] [INFO] [AuthContext] Attempting login via server action. Details: {"email":"super@example.com"}
+[2025-06-21T20:33:57.678Z] [CLIENT] [INFO] [AuthContext] Login successful via server. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T20:33:58.092Z] [CLIENT] [INFO] [LoginPage] User login successful via AuthContext. Details: {"email":"super@example.com","userId":"user-superadmin-001","role":"superadmin"}
+[2025-06-21T20:36:03.955Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T20:37:50.168Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T20:39:25.255Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T20:40:06.677Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T20:50:58.745Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T20:51:35.672Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T20:54:30.603Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T21:00:23.660Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T21:03:10.976Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T21:04:34.754Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T21:05:05.794Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T21:09:33.030Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T21:11:31.973Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T21:12:15.839Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T21:13:32.666Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T21:13:44.479Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T21:13:54.197Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T21:15:06.633Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T21:18:17.956Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T21:24:32.068Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T21:26:59.934Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-21T21:27:50.462Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T21:32:04.792Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T21:46:17.690Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T21:46:48.787Z] [CLIENT] [INFO] Admin viewing invoice (POS). Details: {"orderId":"POS-32C0B228"}
+[2025-06-21T21:50:16.414Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T21:54:24.160Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T21:54:47.451Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T21:57:14.182Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-21T21:59:58.916Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T22:09:05.341Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-21T22:11:09.676Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T22:12:47.202Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T22:16:19.214Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T22:18:00.813Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T22:28:14.091Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T22:30:22.252Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-21T22:30:46.106Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T22:46:04.084Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T23:08:11.062Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T23:15:06.550Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T23:17:43.794Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T23:20:11.485Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-21T23:20:36.022Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T23:22:06.088Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T23:32:45.362Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T23:34:42.569Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T23:35:42.222Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T23:39:29.833Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T23:41:52.334Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T23:48:26.186Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T23:52:05.729Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-21T23:56:32.744Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T00:00:50.197Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T00:06:24.436Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T00:08:36.539Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-22T00:15:21.487Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T00:16:41.861Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T00:18:27.884Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T00:26:35.823Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T01:00:45.707Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T01:21:13.947Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T01:55:58.324Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T02:04:27.955Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T02:12:26.828Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T02:21:25.683Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T02:26:13.685Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T02:29:29.185Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T02:32:54.445Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T02:50:05.481Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T03:01:19.078Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T03:03:19.852Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T03:07:47.827Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T03:17:25.577Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T03:21:35.444Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T10:38:45.238Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T10:52:47.948Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T10:54:08.131Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-22T11:01:23.957Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T11:05:09.596Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T11:07:45.586Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-22T11:13:31.645Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T11:33:39.332Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T11:36:48.794Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T11:49:55.448Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T11:57:11.319Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-22T15:22:28.163Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T15:25:31.830Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T15:36:47.997Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T15:47:12.312Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T20:24:11.159Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T20:30:54.276Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T20:37:01.636Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-22T20:53:05.410Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T03:46:26.603Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T03:56:00.358Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T04:05:41.738Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T04:17:23.541Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T04:33:22.349Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T04:37:18.805Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T04:38:41.475Z] [CLIENT] [INFO] Admin viewing invoice (POS). Details: {"orderId":"POS-32C0B228"}
+[2025-06-23T04:42:04.382Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T04:48:10.899Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T04:50:48.861Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T04:54:56.712Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T05:12:17.304Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T05:30:02.800Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T05:34:59.232Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T05:50:14.090Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T05:56:20.077Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T05:59:08.880Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T06:03:59.945Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T06:10:48.636Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T06:21:54.191Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T06:39:42.484Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T06:44:24.548Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T06:54:06.368Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-23T07:02:09.413Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T07:04:55.394Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T07:58:10.667Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T08:15:16.915Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T08:21:55.162Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T08:54:47.536Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T08:57:04.407Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-23T09:04:09.156Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T09:13:20.958Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T09:39:22.352Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T09:46:43.315Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T09:50:45.952Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T21:16:41.756Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T21:23:39.019Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T21:33:07.967Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T21:38:39.147Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T21:58:20.285Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T22:02:22.293Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T22:07:33.433Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T22:32:36.895Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T22:44:40.598Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T23:00:08.911Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T23:05:24.297Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T23:22:18.409Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T23:26:28.982Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-23T23:29:45.916Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T23:37:47.500Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-23T23:38:15.768Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T23:41:04.147Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-23T23:41:44.962Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-23T23:42:01.973Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-25T01:53:13.971Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-25T01:56:38.127Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-25T01:57:51.793Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-25T01:58:45.435Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-25T02:00:56.180Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-25T02:07:25.586Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-25T02:16:55.904Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-25T02:30:44.733Z] [CLIENT] [INFO] [LoginPage] User attempting login. Details: {"email":"super@example.com"}
+[2025-06-25T02:30:44.944Z] [CLIENT] [INFO] [AuthContext] Attempting login via server action. Details: {"email":"super@example.com"}
+[2025-06-25T02:30:45.478Z] [CLIENT] [INFO] [AuthContext] Login successful via server. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-25T02:30:57.631Z] [CLIENT] [INFO] [LoginPage] User login successful via AuthContext. Details: {"email":"super@example.com","userId":"user-superadmin-001","role":"superadmin"}
+[2025-06-25T02:37:25.963Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-25T02:38:08.148Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-25T02:44:31.094Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-25T15:07:45.086Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-25T15:12:56.431Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-25T19:01:37.093Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-25T19:44:49.936Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-25T19:47:01.407Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-25T19:47:25.379Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-25T19:48:02.066Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-25T20:10:46.280Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-25T20:39:09.633Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-25T20:57:58.487Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-25T21:44:32.035Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-25T22:29:04.318Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-25T22:33:27.533Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-25T22:35:03.609Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-25T23:08:44.262Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-25T23:09:42.333Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-25T23:12:38.809Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-25T23:18:58.956Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-25T23:29:02.856Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-25T23:31:33.558Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-25T23:51:10.847Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-25T23:52:09.975Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-25T23:52:52.957Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-25T23:53:39.957Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-25T23:58:49.648Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-26T00:04:16.753Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-26T00:06:02.615Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-26T00:12:31.589Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-26T00:16:44.302Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-26T00:28:46.087Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-26T00:47:14.513Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-26T01:01:34.854Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-26T01:26:34.799Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-26T01:54:14.942Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-26T07:51:59.656Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-26T07:54:35.065Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-26T08:02:10.456Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-26T08:05:00.507Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-26T08:13:48.384Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-26T08:18:53.041Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-26T09:05:13.263Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-26T09:20:37.830Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-26T09:27:22.449Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-26T09:29:14.512Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-26T09:40:00.604Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-26T09:42:25.182Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-26T10:30:30.965Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-26T10:32:02.058Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-26T10:47:13.094Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-26T10:50:05.513Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-26T10:55:12.889Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-26T12:18:49.252Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-26T12:22:42.003Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-26T12:27:12.932Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-26T12:28:33.289Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-30T03:58:31.692Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-30T04:21:29.436Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-30T04:34:17.198Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-30T04:46:30.709Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-30T04:55:15.289Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-30T05:12:38.620Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-30T06:40:11.075Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-30T06:42:43.295Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-30T06:47:14.586Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-30T07:21:16.059Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-30T08:02:35.011Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-30T08:57:23.801Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-30T09:03:02.385Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-30T09:11:40.804Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-30T09:12:28.222Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-30T09:13:57.462Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-30T09:23:14.465Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-30T09:31:34.483Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-30T09:56:04.360Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-30T10:01:12.950Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-30T10:03:27.047Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-30T10:03:48.386Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-30T10:22:16.320Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-30T10:23:16.173Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-06-30T10:23:49.742Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-30T10:31:13.293Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-30T10:45:48.412Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-30T10:51:54.004Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-30T10:59:42.480Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-30T12:07:30.701Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-06-30T12:12:53.236Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-03T16:04:01.167Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-03T16:05:50.049Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-03T17:22:48.175Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-03T17:25:02.765Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-03T18:10:42.521Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-03T18:16:35.471Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-03T18:24:00.055Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-03T18:49:36.184Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-03T18:53:48.044Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-03T19:04:46.638Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-03T19:05:57.860Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-03T19:11:33.566Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-03T19:51:03.356Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-03T19:53:39.420Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-03T20:05:59.999Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-03T20:11:47.521Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-03T20:16:05.459Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-03T20:20:29.567Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-03T20:24:14.886Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-03T20:32:45.368Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-03T20:43:58.808Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-03T21:02:43.879Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-07-03T21:04:53.203Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-03T21:19:20.080Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-03T21:24:49.532Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-03T21:27:31.662Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-03T21:32:08.927Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-03T21:34:07.009Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-03T21:57:08.147Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-03T21:58:03.390Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-03T21:59:02.492Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-03T22:11:39.095Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-03T22:13:20.320Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-05T02:48:47.436Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-05T02:50:10.196Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-05T02:51:09.174Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.
+[2025-07-05T02:53:41.056Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-05T02:56:29.883Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-05T03:05:02.194Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-05T03:55:01.724Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-05T03:57:52.045Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-05T04:21:19.307Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-05T04:26:13.127Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-05T04:28:09.323Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-05T05:02:03.366Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-05T05:06:16.687Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-05T05:09:41.438Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-05T05:11:28.145Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-05T05:22:47.242Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-05T23:51:31.200Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-05T23:55:31.424Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-05T23:58:03.825Z] [CLIENT] [INFO] [AuthContext] Session loaded from localStorage. Details: {"email":"super@example.com","role":"superadmin"}
+[2025-07-06T00:04:44.491Z] [CLIENT] [INFO] [AuthContext] No active session in localStorage.

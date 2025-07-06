@@ -1,0 +1,26 @@
+
+{
+  "pageTitle": "আমার উপস্থিতি",
+  "pageDescription": "আপনার দৈনিক চেক-ইন এবং চেক-আউট এখানে চিহ্নিত করুন।",
+  "welcomeMessage": "স্বাগতম, {{name}}",
+  "employeeIdLabel": "আপনার কর্মচারী আইডি: {{id}}",
+  "todaysStatusTitle": "আজকের অবস্থা ({{date}})",
+  "notCheckedIn": "আপনি আজ চেক-ইন করেননি।",
+  "checkedInAt": "✅ চেক-ইন সময়: <strong>{{time}}</strong>",
+  "checkedOutAt": "✅ চেক-আউট সময়: <strong>{{time}}</strong>",
+  "alreadyCheckedOut": "আজকের জন্য ইতিমধ্যে চেক-আউট করা হয়েছে",
+  "requestOtpToCheckIn": "চেক-ইন করার জন্য OTP অনুরোধ করুন",
+  "requestOtpToCheckOut": "চেক-আউট করার জন্য OTP অনুরোধ করুন",
+  "otpSentTitle": "OTP পাঠানো হয়েছে!",
+  "otpSentDescription": "অনুগ্রহ করে আপনার ৬-সংখ্যার OTP-র জন্য আপনার ইমেল দেখুন। যদি ইমেল কনফিগার করা না থাকে তবে ডেভেলপার পরীক্ষার OTP হল 123456।",
+  "otpInputPlaceholder": "৬-সংখ্যার OTP লিখুন",
+  "verifyButton": "যাচাই ও নিশ্চিত করুন",
+  "resendOtpButton": "OTP আবার পাঠান",
+  "resendOtpCooldown": "{{cooldown}}s পরে আবার OTP পাঠান",
+  "errorLoadingData": "ডেটা লোড করতে ত্রুটি",
+  "attendanceNotAvailableTitle": "উপস্থিতি উপলব্ধ নয়",
+  "noProfileLinkedTitle": "কোনো কর্মচারী প্রোফাইল লিঙ্ক করা নেই",
+  "noProfileLinkedDescription": "আপনার ব্যবহারকারী অ্যাকাউন্ট কোনো কর্মচারী প্রোফাইলের সাথে লিঙ্ক করা নেই। উপস্থিতি চিহ্নিত করার জন্য আপনার প্রোফাইল সেট আপ করতে অনুগ্রহ করে আপনার প্রশাসকের সাথে যোগাযোগ করুন।",
+  "errorVerificationFailedTitle": "যাচাইকরণ ব্যর্থ হয়েছে",
+  "successTitle": "সফল!"
+}

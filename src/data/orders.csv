@@ -1,0 +1,8 @@
+id,userId,items,total,status,orderType,customerName,phone,email,orderTime,createdAt,tableNumber,paymentType,paymentId
+order123,,"[{""menuItemId"":""1"",""name"":""Margherita Pizza"",""quantity"":1,""price"":12.99},{""menuItemId"":""6"",""name"":""Tiramisu"",""quantity"":2,""price"":7.5}]",27.99,Completed,Takeaway,Alice W.,,,,2023-10-25T10:00:00.000Z,,Pending,
+order456,,"[{""menuItemId"":""3"",""name"":""Spaghetti Carbonara"",""quantity"":2,""price"":15.5}]",31,Ready for Pickup,Dine-in,Bob B.,,,,2023-10-27T12:30:00.000Z,5A,Pending,
+order789,,"[{""menuItemId"":""4"",""name"":""Caesar Salad"",""quantity"":1,""price"":9.75}]",9.75,Pending,Takeaway,Charlie B.,,,,2023-10-27T19:00:00.000Z,,Pending,
+order101,,"[{""menuItemId"":""5"",""name"":""Grilled Salmon"",""quantity"":1,""price"":22}]",22,Ready for Pickup,Takeaway,Diana P.,,,,2023-10-27T16:00:00.000Z,,Pending,
+order112,,"[{""menuItemId"":""2"",""name"":""Pepperoni Pizza"",""quantity"":3,""price"":14.99}]",44.97,Out for Delivery,Takeaway,Edward S.,,,,2023-10-27T20:30:00.000Z,,Pending,
+POS-3B096E30,,"[{""menuItemId"":""1"",""name"":""Margherita Pizza"",""price"":0,""quantity"":1,""selectedPortion"":""fixed""}]",0,Ready for Pickup,Dine-in,Walk-in Guest #0584,,,17:25,2025-06-21T11:55:04.895Z,Dev SuperAdmin,Pending,
+POS-32C0B228,,"[{""menuItemId"":""2"",""name"":""Spaghetti Carbonara"",""price"":0,""quantity"":1,""selectedPortion"":""fixed""}]",0,Preparing,Dine-in,Walk-in Guest #5604,,,17:29,2025-06-21T11:59:04.649Z,Dev SuperAdmin,Pending,

@@ -1,0 +1,26 @@
+
+{
+  "pageTitle": "मेरी उपस्थिति",
+  "pageDescription": "यहां अपनी दैनिक चेक-इन और चेक-आउट करें।",
+  "welcomeMessage": "आपका स्वागत है, {{name}}",
+  "employeeIdLabel": "आपकी कर्मचारी आईडी: {{id}}",
+  "todaysStatusTitle": "आज की स्थिति ({{date}})",
+  "notCheckedIn": "आपने आज चेक-इन नहीं किया है।",
+  "checkedInAt": "✅ चेक-इन का समय: <strong>{{time}}</strong>",
+  "checkedOutAt": "✅ चेक-आउट का समय: <strong>{{time}}</strong>",
+  "alreadyCheckedOut": "आज के लिए पहले ही चेक-आउट कर चुके हैं",
+  "requestOtpToCheckIn": "चेक-इन के लिए OTP का अनुरोध करें",
+  "requestOtpToCheckOut": "चेक-आउट के लिए OTP का अनुरोध करें",
+  "otpSentTitle": "OTP भेजा गया!",
+  "otpSentDescription": "कृपया अपने 6-अंकीय OTP के लिए अपना ईमेल जांचें। यदि ईमेल कॉन्फ़िगर नहीं है तो डेवलपर परीक्षण OTP 123456 है।",
+  "otpInputPlaceholder": "6-अंकीय OTP दर्ज करें",
+  "verifyButton": "सत्यापित करें और पुष्टि करें",
+  "resendOtpButton": "OTP पुनः भेजें",
+  "resendOtpCooldown": "{{cooldown}}s में OTP पुनः भेजें",
+  "errorLoadingData": "डेटा लोड करने में त्रुटि",
+  "attendanceNotAvailableTitle": "उपस्थिति उपलब्ध नहीं है",
+  "noProfileLinkedTitle": "कोई कर्मचारी प्रोफ़ाइल लिंक नहीं है",
+  "noProfileLinkedDescription": "आपका उपयोगकर्ता खाता किसी कर्मचारी प्रोफ़ाइल से लिंक नहीं है। कृपया उपस्थिति दर्ज करने के लिए अपना प्रोफ़ाइल सेट करने के लिए अपने व्यवस्थापक से संपर्क करें।",
+  "errorVerificationFailedTitle": "सत्यापन विफल",
+  "successTitle": "सफलता!"
+}

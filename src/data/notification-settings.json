@@ -1,0 +1,12 @@
+{
+  "admin": {
+    "notifyOnNewOrder": true,
+    "notifyOnNewBooking": false,
+    "notifyOnNewUserSignup": false
+  },
+  "user": {
+    "emailOnOrderConfirmation": true,
+    "emailOnOrderStatusUpdate": false,
+    "emailOnOrderCompletion": false
+  }
+}
