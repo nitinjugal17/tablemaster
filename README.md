@@ -159,6 +159,47 @@ npm run dev
 
 The application will now be running at `http://localhost:3000` (or the port specified in your environment).
 
+## 🚀 Deployment & Production
+
+For running the application in a production environment, it's highly recommended to use a process manager like [PM2](https://pm2.keymetrics.io/) to keep the app alive and manage logs.
+
+### Using PM2
+
+1.  **Install PM2 globally:**
+    ```bash
+    npm install pm2 -g
+    ```
+
+2.  **Build the application for production:**
+    Before running with PM2, you need to create a production build of your Next.js app.
+    ```bash
+    npm run build
+    ```
+
+3.  **Start the application with PM2:**
+    This command starts the Next.js production server using the `npm start` script.
+    ```bash
+    pm2 start npm --name "tablemaster" -- start
+    ```
+    - `--name "tablemaster"`: Assigns a memorable name to your application process.
+    - `-- start`: Tells PM2 to execute the `start` script defined in your `package.json`.
+
+4.  **Managing the Application:**
+    Here are some common PM2 commands to manage your app:
+    - **List all processes:** `pm2 list`
+    - **View logs:** `pm2 logs tablemaster`
+    - **Restart the app:** `pm2 restart tablemaster`
+    - **Stop the app:** `pm2 stop tablemaster`
+    - **Delete the app from PM2's list:** `pm2 delete tablemaster`
+
+5.  **Enable Startup Script:**
+    To ensure your application restarts automatically after a server reboot, generate and run the PM2 startup script.
+    ```bash
+    pm2 startup
+    # Follow the instructions provided by the command
+    pm2 save
+    ```
+
 ## 📖 Usage Guide
 
 1.  **Login:** Access the login page and use the default credentials for your chosen data source.
