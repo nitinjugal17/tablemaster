@@ -1,0 +1,7 @@
+id,name,description
+cat-1,Food Quality,"Feedback related to the taste, presentation, and quality of the food."
+cat-2,Service,"Comments on staff friendliness, attentiveness, and efficiency."
+cat-3,Ambiance,"Feedback about the restaurant's atmosphere, decor, and music."
+cat-4,Cleanliness,Comments regarding the cleanliness of the premises.
+cat-5,Value for Money,Feedback on whether the price was fair for the experience.
+cat-6,Other,General feedback not covered by other categories.

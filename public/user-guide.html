@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TableMaster - Comprehensive User Guide</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            background-color: #f9f9f9;
+        }
+        h1, h2, h3, h4 {
+            font-family: "Georgia", serif;
+            color: #A93226;
+            border-bottom: 2px solid #e0e0e0;
+            padding-bottom: 5px;
+            margin-top: 1.5em;
+        }
+        h1 {
+            text-align: center;
+            border-bottom: 3px solid #A93226;
+        }
+        code, pre {
+            font-family: "Menlo", "Consolas", monospace;
+            background-color: #eee;
+            padding: 2px 5px;
+            border-radius: 4px;
+        }
+        pre {
+            padding: 15px;
+            overflow-x: auto;
+        }
+        ul, ol {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 0.5em;
+        }
+        .placeholder {
+            text-align: center;
+            margin: 20px 0;
+            border: 2px dashed #ccc;
+            padding: 20px;
+            background-color: #fafafa;
+            color: #777;
+            font-style: italic;
+        }
+        .warning {
+            border-left: 5px solid #d9534f;
+            background-color: #f2dede;
+            padding: 15px;
+            margin: 15px 0;
+            border-radius: 4px;
+        }
+        .info {
+             border-left: 5px solid #5bc0de;
+            background-color: #d9edf7;
+            padding: 15px;
+            margin: 15px 0;
+            border-radius: 4px;
+        }
+        .toc {
+            background-color: #fff;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 2em;
+        }
+        .toc ul {
+            list-style-type: none;
+            padding: 0;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>TableMaster: The Comprehensive User Guide</h1>
+
+    <div class="toc">
+        <h3>Table of Contents</h3>
+        <ul>
+            <li><a href="#ch1">Chapter 1: Getting Started - First Time Setup</a></li>
+            <li><a href="#ch2">Chapter 2: Core Concepts & Navigation</a></li>
+            <li><a href="#ch3">Chapter 3: Configuration & Customization</a></li>
+            <li><a href="#ch4">Chapter 4: Data Management, Backup, and Migration</a></li>
+            <li><a href="#ch5">Chapter 5: Recovery & Troubleshooting</a></li>
+        </ul>
+    </div>
+    
+    <hr/>
+    
+    <h2 id="ch1">Chapter 1: Getting Started - First Time Setup</h2>
+    <p>This chapter covers the initial steps to get your TableMaster instance up and running from scratch.</p>
+    
+    <h3>1.1. System Requirements</h3>
+    <ul>
+      <li>Node.js (version 20.x or later recommended)</li>
+      <li>npm or yarn package manager</li>
+    </ul>
+    
+    <h3>1.2. Installation</h3>
+    <ol>
+      <li><strong>Clone the Repository:</strong> Open your terminal and run <code>git clone &lt;repository-url&gt;</code>.</li>
+      <li><strong>Navigate to Directory:</strong> Run <code>cd tablemaster</code>.</li>
+      <li><strong>Install Dependencies:</strong> Run <code>npm install</code> or <code>yarn install</code>.</li>
+    </ol>
+    
+    <h3>1.3. Environment Configuration (.env file)</h3>
+    <p>This is the most critical step for telling your application how to run.</p>
+    <ol>
+      <li>Create a file named <code>.env</code> in the root directory of the project.</li>
+      <li>Copy the contents of <code>.env.example</code> into your new <code>.env</code> file.</li>
+      <li><strong>Set Your Data Source:</strong>
+        <ul>
+          <li>For a quick start without a database, set <code>DATA_SOURCE=csv</code>. The app will automatically create and use files in the <code>/src/data/</code> directory.</li>
+          <li>For a more robust setup, set <code>DATA_SOURCE=mongodb</code> and provide your <code>MONGODB_URI</code> and <code>MONGODB_DB_NAME</code>.</li>
+        </ul>
+      </li>
+      <li><strong>(Optional) Enable Encryption:</strong> To encrypt your CSV data files, add a line: <code>ENCRYPTION_KEY=your_very_strong_32_character_secret_key</code>. <span class="warning"><strong>Warning:</strong> If you set this key, you must back it up. Losing it means losing access to your data.</span></li>
+      <li><strong>Configure Email (Required for OTP):</strong> Fill in the <code>SMTP_HOST</code>, <code>SMTP_PORT</code>, <code>SMTP_USER</code>, and <code>SMTP_PASS</code> variables to enable email features like password resets.</li>
+      <li><strong>Configure AI (Optional):</strong> Add your <code>GOOGLE_API_KEY</code> to enable AI features for menu generation.</li>
+    </ol>
+    <div class="placeholder">[Image Placeholder: Screenshot of a configured .env file with sensitive parts blacked out]</div>
+    
+    <h3>1.4. Initial User Setup</h3>
+    <ul>
+      <li><strong>For CSV Mode:</strong> The first superadmin user is defined in <code>/src/data/users.csv</code>. You can log in with the default credentials and change them immediately.</li>
+      <li><strong>For MongoDB Mode:</strong> You <strong>must</strong> create the first superadmin user manually. Connect to your MongoDB database and run the command found in the <code>README.md</code> file to insert the first user.</li>
+    </ul>
+    
+    <h3>1.5. Running the Application</h3>
+    <p>In your terminal, run <code>npm run dev</code>. The application will be available at <code>http://localhost:3000</code>.</p>
+    
+    <hr/>
+    
+    <h2 id="ch2">Chapter 2: Core Concepts & Navigation</h2>
+    <h3>2.1. The Dashboard</h3>
+    <p>The dashboard is your central hub, providing at-a-glance information about active bookings, pending orders, and daily revenue. It's the first page you see after logging in.</p>
+    <div class="placeholder">[Image Placeholder: Screenshot of the main dashboard with stat cards.]</div>
+    
+    <h3>2.2. The Sidebar</h3>
+    <p>The main navigation is on the left sidebar. It is organized into logical groups like "Admin Core," "HR," "Marketing," and "Settings." Your access to these sections is determined by your user role.</p>
+    
+    <h3>2.3. User Roles</h3>
+    <ul>
+      <li><strong>User:</strong> Standard customer role. Can view the public site, place orders, make bookings, and view their own order history.</li>
+      <li><strong>Admin:</strong> Can manage most operational aspects of the restaurant, including orders, bookings, and user accounts (except superadmins).</li>
+      <li><strong>Superadmin:</strong> Has full system access, including critical settings like data management, access control, and encryption.</li>
+    </ul>
+    
+    <hr/>
+    
+    <h2 id="ch3">Chapter 3: Configuration & Customization</h2>
+    <p>Tailor TableMaster to fit your brand and operational needs in the <strong>Admin &gt; Settings</strong> section.</p>
+    
+    <h3>3.1. General Settings</h3>
+    <p>Navigate to <code>Settings &gt; General</code>. Here you can configure:</p>
+    <ul>
+        <li><strong>Restaurant Information:</strong> Your name, address, phone, and legal numbers (PAN, GST, FSSAI).</li>
+        <li><strong>Display Currency:</strong> The currency symbol and code used across the application. Note: Prices are always stored in the base currency (INR).</li>
+        <li><strong>Homepage Media:</strong> Set URLs for background images and videos on the public homepage.</li>
+    </ul>
+    
+    <h3>3.2. Theme Management</h3>
+    <p>Navigate to <code>Settings &gt; Theme</code>. Here you can:</p>
+    <ul>
+        <li>Create new visual themes by defining light and dark mode colors.</li>
+        <li>Select a theme to be active for the entire application.</li>
+        <li>Load presets to quickly get started with a new look.</li>
+    </ul>
+    
+    <h3>3.3. Invoice & Receipt Customization</h3>
+    <p>Navigate to <code>Settings &gt; Invoice & Receipt</code>. Here you can:</p>
+    <ul>
+        <li><strong>Configure Printers:</strong> Set up network thermal printers for printing receipts.</li>
+        <li><strong>Customize Content:</strong> Use the <strong>General Settings</strong> page to control what information appears on the invoice, such as logos, QR codes, and footer text.</li>
+        <li><strong>Set Section Order:</strong> Drag and drop sections to change their print order on the invoice.</li>
+    </ul>
+    
+    <hr/>
+    
+    <h2 id="ch4">Chapter 4: Data Management, Backup, and Migration</h2>
+    <p>TableMaster provides powerful tools for managing your application's data, accessible via <code>Settings &gt; Data Management</code>.</p>
+    
+    <h3>4.1. Exporting Data (Backup)</h3>
+    <p>You can download a CSV file for any data module (e.g., Menu Items, Orders, Users).</p>
+    <ol>
+      <li>Navigate to <code>Settings &gt; Data Management</code>.</li>
+      <li>Find the data module you wish to back up (e.g., "Menu Items").</li>
+      <li>Click the "Download as CSV" button.</li>
+      <li>Save the file to a secure location. This file serves as your backup.</li>
+    </ol>
+    <div class="placeholder">[Image Placeholder: Screenshot of the Data Management page highlighting a "Download as CSV" button.]</div>
+    
+    <h3>4.2. Importing Data (Restore / Bulk Edit)</h3>
+    <div class="warning">Importing data will <strong>overwrite all existing data</strong> for that module. This is useful for restoring a backup or making bulk changes.</div>
+    <ol>
+      <li>Ensure your CSV file has the exact same headers as the downloaded template.</li>
+      <li>Navigate to <code>Settings &gt; Data Management</code>.</li>
+      <li>Find the appropriate data module.</li>
+      <li>Click "Choose File" and select your prepared CSV file.</li>
+      <li>The upload and import process will begin automatically. A success or error message will be displayed.</li>
+    </ol>
+    
+    <h3>4.3. Migrating from CSV to MongoDB</h3>
+    <p>Migrating to MongoDB is a straightforward process designed to be seamless.</p>
+    <ol>
+      <li><strong>Backup Your Data:</strong> Before starting, go to the Data Management page and download a CSV backup of <strong>every single data module</strong>. This is your safety net.</li>
+      <li><strong>Update Configuration:</strong> Stop the application server. Open your <code>.env</code> file.</li>
+      <li>Change <code>DATA_SOURCE=csv</code> to <code>DATA_SOURCE=mongodb</code>.</li>
+      <li>Ensure your <code>MONGODB_URI</code> and <code>MONGODB_DB_NAME</code> are correctly set.</li>
+      <li><strong>Create Superadmin:</strong> If your MongoDB database is new, manually create the first superadmin user as described in Chapter 1.4.</li>
+      <li><strong>Restart the Application:</strong> Run <code>npm run dev</code>.</li>
+      <li><strong>Import Data:</strong> Log in as the superadmin. Navigate to <code>Settings &gt; Data Management</code>. One by one, upload the CSV files you backed up in step 1 to their corresponding modules.</li>
+    </ol>
+    <p>Once all data is imported, your application will be running entirely on MongoDB.</p>
+    
+    <hr/>
+    
+    <h2 id="ch5">Chapter 5: Recovery & Troubleshooting</h2>
+    <h3>5.1. Recovering from Data Loss (CSV Mode)</h3>
+    <p>If a data file in <code>/src/data/</code> gets corrupted or accidentally deleted, you can restore it from your latest backup by using the "Upload CSV" feature on the Data Management page.</p>
+    
+    <h3>5.2. MongoDB Connection Fails</h3>
+    <div class="info">TableMaster has a built-in fallback system. If the application is configured to use MongoDB but cannot connect to the database, it will automatically and gracefully fall back to using the local CSV files. You will see a notification banner at the top of admin pages indicating this status. This ensures the application remains operational even if the database is temporarily unreachable.</div>
+    <div class="placeholder">[Image Placeholder: Screenshot of the "Database Unreachable" alert banner.]</div>
+    
+    <h3>5.3. Forgetting the Encryption Key</h3>
+    <div class="warning">
+        <strong>Warning:</strong> If you enabled CSV encryption by setting an <code>ENCRYPTION_KEY</code> and you lose that key, the encrypted data is <strong>irrecoverable</strong>. The only way to recover is to restore from a plaintext backup made before encryption was enabled. Always store your encryption key in a secure password manager.
+    </div>
+
+</body>
+</html>

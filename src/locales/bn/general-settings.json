@@ -1,0 +1,27 @@
+
+{
+  "pageTitle": "সাধারণ সেটিংস",
+  "pageDescription": "আপনার রেস্তোরাঁর প্রাথমিক তথ্য, বিশ্বব্যাপী মুদ্রা এবং মিডিয়া URL পরিচালনা করুন। এই সেটিংস সার্ভারে সংরক্ষিত হয় এবং বিশ্বব্যাপী ব্যবহৃত হয়।",
+  "restaurantInfoTitle": "রেস্তোরাঁর তথ্য",
+  "restaurantInfoDescription": "আপনার রেস্তোরাঁর নাম, ঠিকানা, যোগাযোগের বিবরণ এবং আইনি নম্বর আপডেট করুন।",
+  "restaurantNameLabel": "রেস্তোরাঁর নাম",
+  "restaurantNameDescription": "এই নামটি ওয়েবসাইটের শিরোনাম এবং ব্র্যান্ডিংয়ের জন্য ব্যবহৃত হবে।",
+  "addressLabel": "ঠিকানা",
+  "phoneLabel": "ফোন নম্বর",
+  "panLabel": "প্যান নম্বর",
+  "gstLabel": "জিএসটি নম্বর",
+  "fssaiLabel": "এফএসএসএআই নম্বর",
+  "autoLogoutLabel": "অটো-লগআউট সময়সীমা (মিনিট)",
+  "autoLogoutDescription": "অটো-লগআউটের আগে নিষ্ক্রিয়তার সময়কাল। নিষ্ক্রিয় করতে ০ তে সেট করুন।",
+  "displayLangSettingsTitle": "গ্লোবাল ডিসপ্লে এবং ভাষা সেটিংস",
+  "displayLangSettingsDescription": "অ্যাপ্লিকেশন জুড়ে তথ্য প্রদর্শনের জন্য ব্যবহৃত মুদ্রা এবং ভাষা সেট করুন।",
+  "displayCurrencyLabel": "ডিসপ্লে মুদ্রা",
+  "displayCurrencyPlaceholder": "ডিসপ্লে মুদ্রা নির্বাচন করুন",
+  "currentDisplaySymbolText": "বর্তমান ডিসপ্লে প্রতীক:",
+  "baseCurrencyInfoText": "সমস্ত মেনু আইটেমের মূল্য {baseCurrency}-তে প্রবেশ করানো এবং সংরক্ষণ করা হয়। এখানে নির্বাচিত মুদ্রাটি প্রদর্শনের জন্য, যা \"মুদ্রার হার\" সেটিংস থেকে হার ব্যবহার করে রূপান্তরিত হয়।",
+  "globalDisplayLanguageLabel": "গ্লোবাল ডিসপ্লে ভাষা",
+  "globalDisplayLanguagePlaceholder": "ভাষা নির্বাচন করুন",
+  "globalDisplayLanguageInfoText": "এই সেটিংটি প্রধানত জেনারেট করা চালানের উপর স্থির লেবেলগুলিকে প্রভাবিত করে। সম্পূর্ণ অ্যাপ্লিকেশন অনুবাদ একটি বড় বৈশিষ্ট্য।",
+  "saveButtonText": "সাধারণ সেটিংস সংরক্ষণ করুন",
+  "savingButtonText": "সংরক্ষণ করা হচ্ছে..."
+}

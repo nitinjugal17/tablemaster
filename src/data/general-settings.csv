@@ -1,0 +1,397 @@
+companyName,companyAddress,companyPhone,companyLogoUrl,invoiceHeaderText,panNumber,gstNumber,fssaiNumber,scanForOrderQRUrl,scanForPayQRUrl,invoiceFooterText1,invoiceFooterText2,currencyCode,currencySymbol,gstPercentage,vatPercentage,cessPercentage,printElements,websiteHeaderLogoUrl,heroBackgroundMediaUrl,welcomeMediaUrl,orderTakeawayMediaUrl,bookATableMediaUrl,signatureDishBackgroundMediaUrl,operatingHours,defaultThermalPrinterId,autoGenerateInvoiceFooterQuote,invoiceFooterQuoteLanguage,idCardAddressLine,idCardDefaultSignatory,idCardReturnInstructions,idCardPropertyOfLine,autoLogoutTimeoutMinutes,dailyOrderLimitsByRole,globalDisplayLanguage,homepageLayoutConfig,invoiceSectionOrder,enableAutomatedExpenseInventoryReport,automatedReportFrequency,automatedReportRecipientEmail,availableThemes,activeThemeId,footerAboutText,footerContactAddress,footerContactEmail,footerCopyrightText,footerFacebookUrl,footerInstagramUrl,footerTwitterUrl,termsAndConditionsContent,disclaimerContent,userGuideContent,faqContent,menuCategoryEnhancements,showCalculatedCostOnInvoiceAdmin,showNutritionalInfoOnInvoice,dailyRevenueThreshold,employeeBonusAmount,bonusPercentageAboveThreshold,autoApproveNewOrders,autoApproveTableBookings,autoApproveRoomBookings,roomBookingMediaUrl,loyaltyProgramEnabled,pointsPerCurrencyUnit,pointValueInCurrency,customerInfoPin
+TableMaster Demo Restaurant,"123 Culinary Lane, Foodville, FS 54321",(123) 456-7890,https://placehold.co/200x80.png?text=Invoice+Logo,🙏 Jai Shree Ram 🙏,ABCDE1234F,22ABCDE1234F1Z5,10012345678901,https://placehold.co/80x80.png?text=Order+QR,https://placehold.co/80x80.png?text=Pay+QR,May your food be blessed and your day be joyful!,All items subject to availability. Prices inclusive of all taxes unless stated otherwise. Please inform us of any allergies.,INR,₹,0,0,0,"{""showLogo"":true,""showInvoiceHeaderText"":true,""showScanForOrderQR"":true,""showScanForPayQR"":true,""showPanNumber"":true,""showGstNumber"":true,""showFssaiNumber"":true,""showInvoiceFooterText1"":true,""showInvoiceFooterText2"":true,""showCompanyAddress"":true,""showCompanyPhone"":true}",https://placehold.co/150x50.png?text=Website+Logo,https://placehold.co/1920x1080.png?text=Hero+Background,https://placehold.co/800x600.png?text=Welcome+Media,https://placehold.co/600x400.png?text=Takeaway+Section,https://placehold.co/600x400.png?text=Booking+Section,https://placehold.co/1200x400.png?text=Signature+Dishes+BG,"{""monFriOpen"":""11:00"",""monFriClose"":""22:00"",""satOpen"":""10:00"",""satClose"":""23:00"",""sunOpen"":""12:00"",""sunClose"":""21:00""}",53bca44c-d5bb-4871-b8c8-a4962f28e688,false,en,,,,,30,"{""user"":5,""admin"":0}",en,"[{""id"":""hero"",""name"":""Hero Banner"",""isVisible"":true,""order"":1},{""id"":""features"",""name"":""Features (What We Offer)"",""isVisible"":true,""order"":2},{""id"":""menu_highlights"",""name"":""Signature Dishes"",""isVisible"":true,""order"":3},{""id"":""booking_cta"",""name"":""Book a Table Call-to-Action"",""isVisible"":true,""order"":4},{""id"":""takeaway_cta"",""name"":""Order Takeaway Call-to-Action"",""isVisible"":true,""order"":5}]","[""invoiceHeader"",""companyHeader"",""orderDetails"",""itemsTable"",""totals"",""taxInfo"",""footerText1"",""footerText2"",""closingMessage"",""qrCodeOrder"",""qrCodePay""]",false,weekly,,"[{""id"":""default-theme"",""name"":""Default Theme"",""lightColors"":{""background"":""43 51% 89%"",""foreground"":""0 0% 3.9%"",""primary"":""7 57% 43%"",""primaryForeground"":""0 0% 98%"",""secondary"":""130 20% 52%"",""secondaryForeground"":""0 0% 9%"",""accent"":""130 20% 42%"",""accentForeground"":""0 0% 98%"",""muted"":""0 0% 96.1%"",""mutedForeground"":""0 0% 45.1%"",""card"":""43 51% 89%"",""cardForeground"":""0 0% 3.9%"",""popover"":""43 51% 89%"",""popoverForeground"":""0 0% 3.9%"",""border"":""0 0% 89.8%"",""input"":""0 0% 89.8%"",""ring"":""7 57% 43%""},""darkColors"":{""background"":""0 0% 10%"",""foreground"":""0 0% 95%"",""primary"":""7 50% 50%"",""primaryForeground"":""0 0% 98%"",""secondary"":""130 15% 35%"",""secondaryForeground"":""0 0% 95%"",""accent"":""130 25% 50%"",""accentForeground"":""0 0% 98%"",""muted"":""0 0% 18%"",""mutedForeground"":""0 0% 60%"",""card"":""0 0% 12%"",""cardForeground"":""0 0% 95%"",""popover"":""0 0% 10%"",""popoverForeground"":""0 0% 95%"",""border"":""0 0% 20%"",""input"":""0 0% 20%"",""ring"":""7 50% 50%""}}]",default-theme,"Savor the moments, one dish at a time. TableMaster helps you connect with your favorite culinary experiences.","123 Restaurant St, Food City",info@tablemaster.example.com,© {year} {companyName}. All rights reserved. Crafted with passion.,#,#,#,"<h1>Terms and Conditions</h1><p>Welcome to TableMaster! These terms and conditions outline the rules and regulations for the use of TableMaster's Website, located at tablemaster.example.com.</p><p>By accessing this website we assume you accept these terms and conditions. Do not continue to use TableMaster if you do not agree to take all of the terms and conditions stated on this page.</p><h2>Cookies</h2><p>We employ the use of cookies. By accessing TableMaster, you agreed to use cookies in agreement with the TableMaster's Privacy Policy.</p><h2>License</h2><p>Unless otherwise stated, TableMaster and/or its licensors own the intellectual property rights for all material on TableMaster. All intellectual property rights are reserved. You may access this from TableMaster for your own personal use subjected to restrictions set in these terms and conditions.</p>","<h1>Disclaimer</h1><p>The information provided by TableMaster on tablemaster.example.com is for general informational purposes only. All information on the Site is provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability or completeness of any information on the Site.</p><p>UNDER NO CIRCUMSTANCE SHALL WE HAVE ANY LIABILITY TO YOU FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF THE SITE OR RELIANCE ON ANY INFORMATION PROVIDED ON THE SITE. YOUR USE OF THE SITE AND YOUR RELIANCE ON ANY INFORMATION ON THE SITE IS SOLELY AT YOUR OWN RISK.</p>","<h1>TableMaster Comprehensive User Guide</h1>
+
+<h2>1. Introduction</h2>
+<p>Welcome to TableMaster, your all-in-one solution for an enhanced dining experience and efficient restaurant management! This guide is designed to help both customers and administrators navigate and utilize the full potential of our platform. Whether you're here to book a table, order your favorite meal, or manage restaurant operations, TableMaster offers a seamless and intuitive interface.</p>
+<p>Our platform integrates Point of Sale (POS) capabilities, menu management with AI-driven tools, booking and table organization, inventory tracking, expense management, marketing tools, and robust administrative settings. For developers and testers, please note that this is a prototype application where data is primarily managed via server-side CSV files, and certain features like password storage are implemented with placeholder security for demonstration purposes.</p>
+
+<h2>2. Getting Started (For All Users)</h2>
+<h3>2.1. Accessing the Application</h3>
+<p>You can access TableMaster through your web browser. The homepage provides an overview of the restaurant, featured items, and quick actions.</p>
+
+<h3>2.2. Account Management</h3>
+<h4>Signing Up</h4>
+<p>New users can create an account by clicking the ""Login / Sign Up"" button usually found in the header, then selecting ""Sign up"". You'll need to provide:</p>
+<ul>
+    <li>Your Full Name</li>
+    <li>A valid Email Address</li>
+    <li>A Password (minimum 6 characters)</li>
+</ul>
+<p>Upon submission, an OTP (One-Time Password) will be sent to your registered email address for verification. Enter this OTP on the verification page to activate your account.</p>
+<p><em><strong>Development Note:</strong> If SMTP email is not configured on the server, the OTP will be logged to the server console. For testing, the OTP ""123456"" can often be used. In a real application, OTPs are unique and time-sensitive.</em></p>
+
+<h4>Logging In</h4>
+<p>Existing users can log in using their registered email and password. If you attempt to complete an action that requires authentication (like placing an order or booking) while not logged in, your progress (e.g., cart items, booking details) will be temporarily saved in your browser. You'll be redirected to the login page, and upon successful login, you can seamlessly continue your action.</p>
+
+<h4>Forgot Password</h4>
+<p>If you've forgotten your password, click the ""Forgot Password?"" link on the login page. Enter your email address, and if an account exists, an OTP will be sent to help you set a new password.</p>
+
+<h3>2.3. Navigating the Application</h3>
+<ul>
+    <li><strong>Header:</strong> The main header provides quick links to the Menu, Booking page, Takeaway orders, and your Dashboard/Login.</li>
+    <li><strong>Sidebar (Authenticated Users):</strong> Once logged in, a sidebar provides access to various sections like Dashboard, Menu, Bookings, My Orders, and Admin Panel (if applicable based on your role).</li>
+    <li><strong>Footer:</strong> Contains links to informational pages like FAQ, Terms & Conditions, Disclaimer, User Guide, and social media.</li>
+</ul>
+
+<h3>2.4. Dashboard Overview (<code>/dashboard</code>)</h3>
+<p>The dashboard is your personalized landing page after logging in. It provides:</p>
+<ul>
+    <li>A welcome message.</li>
+    <li>Key statistics like active bookings, pending orders, total menu items, and today's revenue (visible to all authenticated users, data is mock for general users).</li>
+    <li>Quick links to common actions like viewing the menu, booking a table, and checking your orders.</li>
+    <li>For users with 'Superadmin' roles, additional links to the Admin Panel sections are displayed.</li>
+</ul>
+
+<h2>3. Public User Features</h2>
+<h3>3.1. Homepage (<code>/</code>)</h3>
+<p>The homepage is dynamically arranged based on admin configuration. Common sections include:</p>
+<ul>
+    <li><strong>Hero Section:</strong> A welcoming banner, often with restaurant branding and call-to-action buttons.</li>
+    <li><strong>Promotional Banners:</strong> Displays active marketing banners.</li>
+    <li><strong>Explore Menu Categories:</strong> Highlights different food categories with links to the menu.</li>
+    <li><strong>Active Offers/Discounts:</strong> Showcases current special deals and discount codes.</li>
+    <li><strong>Signature Dishes:</strong> Features a few popular or special menu items.</li>
+    <li><strong>Book a Table / Order Takeaway CTAs:</strong> Quick links to these services.</li>
+</ul>
+<p>The homepage also indicates if the restaurant is currently open or closed based on configured operating hours.</p>
+
+<h3>3.2. Viewing the Menu (<code>/menu</code>)</h3>
+<p>Explore our extensive menu with various features:</p>
+<ul>
+    <li><strong>Layout Options:</strong> Choose between List, Carousel, or Grid view for browsing items.</li>
+    <li><strong>Filtering & Search:</strong>
+        <ul>
+            <li>Search by item name, ID, ingredients, or synonyms.</li>
+            <li>Filter by Category (e.g., Appetizers, Main Course).</li>
+            <li>Filter by Cuisine (e.g., Italian, Indian).</li>
+            <li>Filter by Dietary Restrictions (e.g., Vegan, Gluten-Free).</li>
+        </ul>
+    </li>
+    <li><strong>Item Details:</strong> Each menu item card displays its name, image, description, default portion price, and category. Unavailable items are marked.</li>
+    <li><strong>Portion Selection:</strong> If an item offers multiple portions (e.g., Small, Regular, Large; Half, Full), a dropdown will appear on the ""Add to Cart"" button. Select your desired portion, and its specific price will be used.</li>
+    <li><strong>Adding to Takeaway Cart:</strong>
+        <ul>
+            <li>Click ""Add to Cart"" (or select a portion then add).</li>
+            <li>The item is added to your takeaway cart. The cart icon in the header updates with the item count.</li>
+            <li>You can open the cart to adjust quantities, add notes to specific items (e.g., ""no onions""), or remove items.</li>
+        </ul>
+    </li>
+    <li><strong>Takeaway Checkout:</strong> When ready, click ""Proceed to Checkout"" in the cart. If you're not logged in, your cart items will be saved, and you'll be prompted to log in or sign up. After authentication, your order will be processed.</li>
+</ul>
+
+<h3>3.3. Making a Table Booking (<code>/bookings</code>)</h3>
+<p>Reserve your table with ease:</p>
+<ul>
+    <li>Fill in your contact details (Name, Phone, Email (optional for confirmation)).</li>
+    <li>Select the date, preferred time slot, and party size.</li>
+    <li><strong>Table Preference (Optional):</strong> If available tables match your party size, you can select a preferred table.</li>
+    <li><strong>Pre-order Items (Optional):</strong> Browse the menu directly within the booking form and add items to your booking.
+        <ul>
+            <li>Filter and search for items similarly to the main menu page.</li>
+            <li>If items have multiple portions, select the desired portion and its price will be associated with your pre-order.</li>
+            <li>Adjust quantities and add notes for pre-ordered items.</li>
+        </ul>
+    </li>
+    <li><strong>Special Requests:</strong> Add any notes for your booking (e.g., anniversary, window seat preference).</li>
+    <li><strong>Submission:</strong> Click ""Request Booking"". If you are not logged in, your booking details will be saved, and you'll be prompted to log in or sign up to finalize the request.</li>
+</ul>
+
+<h3>3.4. Managing Your Orders (<code>/orders</code>)</h3>
+<p>Keep track of your takeaway orders:</p>
+<ul>
+    <li>View a list of your active orders (Pending, Preparing, Ready for Pickup, Out for Delivery).</li>
+    <li>View your completed and cancelled orders.</li>
+    <li>Each order card displays the order ID, date, status, items (with selected portions and notes), and total amount.</li>
+    <li>Auto-refresh option is available to keep the order list updated.</li>
+</ul>
+
+<h3>3.5. Contacting Us (<code>/contact</code>)</h3>
+<p>Reach out with questions or feedback using the contact form. Provide your name, email, an optional subject, and your message. The message will be sent to the restaurant's administrative email.</p>
+
+<h3>3.6. Legal & Informational Pages</h3>
+<p>Accessible from the footer:</p>
+<ul>
+    <li><strong>FAQ:</strong> Find answers to common questions.</li>
+    <li><strong>Terms & Conditions:</strong> Review the terms of service for using the TableMaster application.</li>
+    <li><strong>Disclaimer:</strong> Read important disclaimers regarding information and services provided.</li>
+    <li><strong>User Guide:</strong> This document, providing comprehensive help.</li>
+</ul>
+
+<h2>4. Chef View (<code>/chef-view</code>)</h2>
+<p>This specialized interface is designed for kitchen staff to manage incoming orders efficiently.</p>
+<ul>
+    <li><strong>Live Order Feed:</strong> Displays orders currently in ""Preparing"" status.</li>
+    <li><strong>Item Preparation Tracking:</strong> Chefs can mark individual items within an order as ""prepared"" using checkboxes.</li>
+    <li><strong>Order Completion:</strong> Once all items in an order are marked as prepared, the chef can mark the entire order as ""Ready for Pickup"" (for takeaway/dine-in table service) or ""Ready for Service"" (for dine-in).</li>
+    <li><strong>Aggregated Items Summary:</strong> A side panel shows a summarized list of all *pending* (not yet marked as prepared) items across all active orders, helping the kitchen prioritize bulk preparations (e.g., ""5 x Margherita Pizza"", ""3 x Caesar Salad"").</li>
+    <li><strong>Order Details:</strong> Each order card shows the order ID, type (Dine-in/Takeaway), table number (if applicable), customer name, time since placed, and items with quantities, selected portions, and any specific notes from the customer (e.g., ""no onions"", ""extra spicy"").</li>
+    <li><strong>Auto-Refresh:</strong> The view can be set to auto-refresh at configurable intervals to ensure the latest orders are always visible.</li>
+</ul>
+
+<h2>5. Admin Panel Features</h2>
+<p>Users with 'Admin' or 'Superadmin' roles gain access to the Admin Panel for comprehensive restaurant management. Access is typically via a link in the sidebar or user dropdown menu.</p>
+
+<h3>5.1. Core Management</h3>
+<h4>POS Terminal (<code>/admin/pos</code>)</h4>
+<p>A powerful Point of Sale interface for managing walk-in and dine-in orders:</p>
+<ul>
+    <li><strong>Create New Walk-in Order:</strong>
+        <ul>
+            <li>Enter customer name, phone (optional), and email (optional).</li>
+            <li>Assign an available table and set the order time (current or future).</li>
+            <li>Browse the menu (with search and filters) and add items. For items with multiple portions, admins can select the specific portion, and its price will be applied. Notes can be added per item.</li>
+            <li>The system calculates the total.</li>
+            <li>Place the order, which then typically moves to the ""Preparing"" status and appears in the Chef View.</li>
+        </ul>
+    </li>
+    <li><strong>Live Kitchen View (Embedded):</strong> A compact version of the Chef View showing 'Preparing' orders.</li>
+    <li><strong>Recent Order Management:</strong>
+        <ul>
+            <li>View orders from a selected date.</li>
+            <li>Edit basic order details (e.g., status, payment information).</li>
+            <li>Settle payments: Mark orders as paid with specific payment types (Cash, Card, UPI, Online) and add transaction IDs.</li>
+            <li>View and print invoices (PDF/Web or Thermal formats).</li>
+        </ul>
+    </li>
+    <li>Auto-refresh options are available for both the Kitchen View and Recent Orders sections.</li>
+</ul>
+
+<h4>Menu Management (<code>/admin/menu-management</code>)</h4>
+<p>Full control over your restaurant's menu:</p>
+<ul>
+    <li><strong>Add/Edit Menu Items:</strong>
+        <ul>
+            <li>Define item ID, name, category, cuisine, main ingredients, dietary restrictions (e.g., Vegan, Gluten-Free), and search synonyms.</li>
+            <li>Set item availability (show/hide from public menu).</li>
+            <li>Provide an Image URL (or a placeholder is used). An AI Hint (1-2 keywords) can be added for image search/generation.</li>
+        </ul>
+    </li>
+    <li><strong>Portion Management & Dynamic Pricing:</strong>
+        <ul>
+            <li>For each menu item, define one or more portions (e.g., ""Small"", ""Regular"", ""Large"", ""Half Plate"", ""250g"").</li>
+            <li>Assign a specific price (in the base currency) to each portion.</li>
+            <li>Mark one portion as the default, which will be pre-selected or shown primarily.</li>
+        </ul>
+    </li>
+    <li><strong>AI-Powered Content Tools:</strong>
+        <ul>
+            <li><strong>Generate Details:</strong> AI can generate a description, recipe, and preparation method based on the item's name, cuisine, and ingredients.</li>
+            <li><strong>Update Info:</strong> Provide instructions to the AI to refine or change existing descriptions/recipes.</li>
+            <li><strong>Generate Nutritional Info:</strong> AI can estimate nutritional values (calories, carbs, protein, fat, energy kJ) and suggest a serving size based on item details.</li>
+        </ul>
+    </li>
+    <li><strong>Stock Item Mapping:</strong> Link stock items from your inventory to menu items to enable cost calculation (see Operations Management).</li>
+    <li><strong>Calculated Cost:</strong> The system automatically calculates an estimated cost for the default portion of a menu item based on its mapped stock items and their purchase prices. This is displayed for admin reference.</li>
+    <li><strong>Local Changes & Saving:</strong> All changes are made locally first. Click ""Save All Changes"" to write modifications to the server-side CSV file. This action also recalculates costs for affected items.</li>
+</ul>
+
+<h4>Bookings Management (<code>/admin/bookings-management</code>)</h4>
+<p>Oversee and manage all table reservations:</p>
+<ul>
+    <li><strong>View Bookings:</strong> See a list of all booking requests with details like customer name, party size, date/time, status, pre-ordered items (with selected portions and prices), and notes.</li>
+    <li><strong>Filter & Search:</strong> Find bookings by ID, name, phone, email, status, or date range.</li>
+    <li><strong>Manage Status:</strong> Confirm pending bookings or cancel existing ones. Email notifications are sent to users if configured.</li>
+    <li><strong>Assign Tables:</strong> Assign an available table to a confirmed booking. If a customer requested a specific table, this is visible.</li>
+    <li><strong>Quick Create Booking:</strong> Easily add walk-in bookings or phone reservations, including options for pre-ordering items with portion selection.</li>
+    <li><strong>Auto-Refresh:</strong> Keep the bookings list up-to-date automatically.</li>
+</ul>
+
+<h4>Table Management (<code>/admin/tables</code>)</h4>
+<p>Configure your restaurant's physical layout:</p>
+<ul>
+    <li>Add, edit, or delete tables.</li>
+    <li>Define table name/number, capacity, current status (Available, Occupied, Reserved, Maintenance), and optional notes (e.g., ""Near window"").</li>
+    <li>Changes are saved to a server-side CSV file.</li>
+</ul>
+
+<h4>Order Management (All Orders) (<code>/admin/orders</code>)</h4>
+<p>A comprehensive view of all orders, both dine-in and takeaway:</p>
+<ul>
+    <li><strong>View & Filter:</strong> List all orders, filterable by status, order type, payment type, and date range. Search by Order ID or customer name.</li>
+    <li><strong>View Modes:</strong> Toggle between a detailed Card view and a compact Table view.</li>
+    <li><strong>Edit Order Details:</strong> Modify an order's status, customer name, table number (for dine-in), payment type, and transaction ID. Items within an existing order can also be adjusted (add, remove, change quantity, add notes) via the Order Editor.</li>
+    <li><strong>Invoice Management:</strong> View, print (Web/PDF or Thermal), or email receipts/invoices for any order. Invoices display itemized lists including selected portions and their prices.</li>
+</ul>
+
+<h4>User Management (<code>/admin/user-management</code>)</h4>
+<p>Manage user accounts (Admin role has limited capabilities; Superadmin has full control):</p>
+<ul>
+    <li><strong>View Users:</strong> See a list of all registered users with their name, email, phone, role, and account status.</li>
+    <li><strong>Edit User Details:</strong> Modify a user's name, email, and phone number.</li>
+    <li><strong>Change Roles (Superadmin primarily):</strong> Assign roles (User, Admin, Superadmin) to users. Restrictions apply (e.g., cannot demote the only superadmin).</li>
+    <li><strong>Manage Account Status:</strong> Set user accounts to active, inactive, suspended, or pending verification.</li>
+    <li><strong>Delete Users:</strong> Remove user accounts (with safeguards, e.g., cannot delete self or the only superadmin).</li>
+    <li><strong>Add User (Superadmin via CSV):</strong> New user creation via the UI is typically handled by public signup; admins can use CSV upload in Data Management for bulk additions if needed.</li>
+</ul>
+
+<h3>5.2. Operations Management</h3>
+<h4>Inventory Management (<code>/admin/inventory</code>)</h4>
+<p>Keep track of your stock:</p>
+<ul>
+    <li>Add, edit, or delete stock items (e.g., Flour, Chicken Breast, Soda Cans).</li>
+    <li>Define item name, category, unit of measure (kg, g, pcs, liter, ml, etc.), current stock quantity, reorder level, supplier, purchase price (in base currency), and last purchase date.</li>
+    <li>Items below their reorder level are highlighted.</li>
+    <li><strong>Reporting:</strong> Send an inventory summary report (along with expenses for a selected period) via email.</li>
+    <li>Changes are saved to a server-side CSV file.</li>
+</ul>
+
+<h4>Stock-Menu Mapping (<code>/admin/inventory/stock-menu-mapping</code>)</h4>
+<p>Link raw ingredients/stock items to your menu items for cost analysis:</p>
+<ul>
+    <li>Create mappings between a stock item and a menu item.</li>
+    <li>Specify the quantity of the stock item used per serving of the menu item (e.g., 0.2 kg of Chicken Breast for one Chicken Curry).</li>
+    <li>Define the unit used in the recipe (e.g., 'g' even if stock is in 'kg'). The system attempts basic conversions for costing.</li>
+    <li>This mapping is crucial for the ""Calculated Cost"" feature on the Menu Management page (cost is based on the default portion).</li>
+</ul>
+
+<h4>Expenses (<code>/admin/expenses</code>)</h4>
+<p>Track and manage business expenditures:</p>
+<ul>
+    <li>Record expenses with date, description, category (e.g., Ingredients, Utilities, Rent), amount (in base currency), notes, and an optional URL to a receipt image/document.</li>
+    <li>Mark expenses as recurring (daily, weekly, monthly) and set an optional end date for recurrence.</li>
+    <li>Filter expenses by category, date range, or recurrence status.</li>
+    <li><strong>Reporting:</strong> Send an expense summary report (along with current inventory) via email.</li>
+    <li>Changes are saved to a server-side CSV file.</li>
+</ul>
+
+<h3>5.3. Marketing Tools</h3>
+<h4>Discount Codes (<code>/admin/marketing/discounts</code>)</h4>
+<p>Create and manage promotional discount codes:</p>
+<ul>
+    <li>Define discount code (e.g., SUMMER25), type (percentage or fixed amount in base currency), value.</li>
+    <li>Set validity dates (from/to), usage limit (0 for unlimited), minimum order amount required.</li>
+    <li>Track times used (read-only, updated by ordering system conceptually).</li>
+    <li>Activate/deactivate codes and add descriptions.</li>
+</ul>
+
+<h4>Offers & Promotions (<code>/admin/marketing/offers</code>)</h4>
+<p>Design and manage special offers:</p>
+<ul>
+    <li>Set offer title, description, type (e.g., Discount on Item, Combo Deal, Free Item with Purchase, Seasonal Special).</li>
+    <li>Provide offer details as a JSON string (e.g., <code>{""menuItemId"": ""xyz"", ""discountPercent"": 10}</code>).</li>
+    <li>Add an image URL, AI hint for image generation, validity dates, active status.</li>
+    <li>Optionally link to specific menu item IDs using a comma-separated list.</li>
+</ul>
+
+<h4>Banners (<code>/admin/marketing/banners</code>)</h4>
+<p>Manage promotional banners for the public website (e.g., homepage):</p>
+<ul>
+    <li>Set banner title, image URL, AI hint, optional link URL.</li>
+    <li>Define display order (lower numbers appear first/higher).</li>
+    <li>Set active status and validity dates.</li>
+</ul>
+
+<h4>Image Management (<code>/admin/marketing/image-management</code>)</h4>
+<p>A central place to manage image URLs and their metadata:</p>
+<ul>
+    <li>Add records for images used across the application (e.g., menu items, offers, UI elements).</li>
+    <li>Specify context (e.g., 'menu_item', 'offer'), an optional associated entity ID, the image URL (images must be hosted externally).</li>
+    <li>Include AI prompt used (if applicable), AI hint (keywords for search/generation, max 2 words), alt text for accessibility, and upload date.</li>
+    <li>A conceptual ""Generate Image with AI"" button is present, indicating future Genkit integration.</li>
+</ul>
+
+<h3>5.4. Admin Tools</h3>
+<h4>ID Card Generator (<code>/admin/tools/id-card-generator</code>)</h4>
+<p>Create printable employee ID cards:</p>
+<ul>
+    <li>Enter employee name, designation, department (optional).</li>
+    <li>Upload an employee photo or provide a URL.</li>
+    <li>Set an optional expiry date.</li>
+    <li>Company logo URL, signatory name, and signatory image URL can be customized or use defaults from General Settings.</li>
+    <li>Add optional blood type and National ID/Aadhar.</li>
+    <li>Preview the ID card (front and back) before printing using the browser's print dialog.</li>
+</ul>
+
+<h2>6. Superadmin Exclusive Features</h2>
+<p>Superadministrators have access to all Admin features plus the critical System Settings section, allowing them to configure the core behavior and appearance of the application.</p>
+
+<h3>6.1. System Settings (<code>/admin/settings</code>)</h3>
+<p>This central hub provides access to various configuration panels:</p>
+<ul>
+    <li><strong>General Settings:</strong> Manage basic restaurant information (name, address, phone, legal numbers), global display currency (base currency for pricing is fixed, e.g., INR), media URLs (logos, QR codes, homepage section visuals), tax percentages (GST, VAT, Cess), operating hours, default auto-logout timeout, and content for footer and legal pages (Terms, Disclaimer, User Guide, FAQ).</li>
+    <li><strong>Theme Management:</strong> Customize the application's visual themes. Create new themes, edit existing ones by defining HSL color values for light and dark modes across various UI elements (background, primary, accent, card, etc.). Apply a theme to update the <code>globals.css</code> file. Several presets are available to start from.</li>
+    <li><strong>Currency Rates:</strong> Define exchange rates from the base currency (e.g., INR) to other supported currencies (e.g., USD, GBP). These rates are used for displaying prices in selected currencies.</li>
+    <li><strong>Invoice & Receipt Settings:</strong>
+        <ul>
+            <li>Configure thermal printer profiles (name, connection type: Network IP/System, paper width, DPI, auto-cut, cash drawer options).</li>
+            <li>Set a default thermal printer for quick printing from POS/Order Management.</li>
+            <li>Test printer configurations.</li>
+            <li>View (informational) invoice delivery options for email/SMS (actual provider setup is via server .env).</li>
+            <li>Customize invoice content (header/footer text, AI-generated quotes, language for quotes, elements to show like logo, tax numbers, QR codes).</li>
+            <li>Reorder sections on the invoice (e.g., company header, items table, totals).</li>
+            <li>Toggle display of calculated item costs and nutritional info on admin-viewed invoices.</li>
+        </ul>
+    </li>
+    <li><strong>Notification Settings:</strong> Enable/disable various email notifications for administrators (e.g., new order, new booking, new user signup) and for users (e.g., order confirmation, booking status updates). Relies on SMTP settings in <code>.env</code>.</li>
+    <li><strong>Authentication Settings (Conceptual):</strong> View current OTP methods (Email OTP via Nodemailer is primary). Phone OTP is shown as not implemented. Actual SMTP/provider keys are managed in <code>.env</code>.</li>
+    <li><strong>Rate Limiting Configuration:</strong> Set server-side rate limits for actions like OTP requests and signup attempts per hour/day. Note: Request counters are in-memory for this prototype.</li>
+    <li><strong>Data Management (CSV):</strong> Import and export core application data (Menu Items including portion details, Orders, Users with PLAINTEXT passwords in this prototype, Bookings, Tables, Currency Rates, General Settings, Printer Settings, Role Permissions, Discount Codes, Offers, Banners, Managed Images, Stock Items, Expenses, Stock-Menu Mappings, Rate Limit Config) via CSV files. This is the primary data persistence mechanism for the prototype.</li>
+    <li><strong>Encryption Settings:</strong> View the status of server-side CSV file encryption (active if <code>ENCRYPTION_KEY</code> is set in <code>.env</code>). Includes a client-side utility to test AES encryption/decryption.</li>
+    <li><strong>Access Control Management:</strong> Define user roles (e.g., 'cashier', 'manager') and assign permissions to specific application routes/features for each role. Superadmin role always has full access. Default roles (admin, user) can be modified.</li>
+    <li><strong>Homepage Layout Configuration:</strong> Control the visibility and display order of different sections on the public-facing homepage (e.g., Hero, Banners, Menu Highlights, Booking CTA).</li>
+    <li><strong>Menu Category Visuals:</strong> Set custom background image or video URLs for specific menu categories, which can be used to enhance their display on the public site.</li>
+    <li><strong>Server Logs & Client Logs:</strong> View recent server-side application logs and client-originated event logs sent to the server. Logs are stored in text files.</li>
+</ul>
+
+<h2>7. Tips for Using TableMaster</h2>
+<ul>
+    <li><strong>All Users:</strong>
+        <ul>
+            <li>If you start an order or booking and are asked to log in, your progress is usually saved temporarily. Log in or sign up to continue.</li>
+            <li>Check the ""My Orders"" page for updates on your takeaway orders.</li>
+            <li>For bookings, you'll receive email confirmations if you've provided your email address and notifications are enabled.</li>
+        </ul>
+    </li>
+    <li><strong>Administrators:</strong>
+        <ul>
+            <li>Regularly check the Admin Dashboard for an overview.</li>
+            <li>Keep menu item availability (Admin -> Menu Management) up-to-date.</li>
+            <li>Promptly manage new bookings and update their statuses (Admin -> Bookings Management).</li>
+            <li>Monitor the Chef View or POS Kitchen View during service hours.</li>
+            <li>Use the Data Management settings for backups (download CSVs) if needed.</li>
+        </ul>
+    </li>
+    <li><strong>Superadministrators:</strong>
+        <ul>
+            <li>Carefully manage Roles and Permissions in Access Control settings, as this dictates what users can see and do.</li>
+            <li>Ensure the <code>ENCRYPTION_KEY</code> in the server's <code>.env</code> file is extremely strong and kept secret if CSV encryption is desired.</li>
+            <li>Configure SMTP settings in <code>.env</code> for email functionalities (OTP, notifications, invoices) to work.</li>
+            <li>Regularly review Server Logs and Client Logs for any issues.</li>
+        </ul>
+    </li>
+</ul>
+
+<h2>8. Troubleshooting & Support</h2>
+<ul>
+    <li><strong>Common Issues:</strong>
+        <ul>
+            <li><strong>Login/Signup Problems:</strong> Ensure correct email/password. If OTP is not received via email, check server console logs (if SMTP is not configured) or look for the developer test OTP (e.g., ""123456""). Ensure your account is active and not suspended.</li>
+            <li><strong>Features Not Working:</strong> Some features might be conceptual or depend on server configurations (like email sending or specific AI model access).</li>
+            <li><strong>Data Not Saving:</strong> For admin changes, ensure you click the relevant ""Save"" button (e.g., ""Save All to CSV"", ""Save General Settings""). Changes are often local to your session until explicitly saved to the server.</li>
+        </ul>
+    </li>
+    <li><strong>Check the FAQ:</strong> The <a href=""/faq"">Frequently Asked Questions</a> page might have answers to your query.</li>
+    <li><strong>Contact Support:</strong>
+        <ul>
+            <li>General users can use the ""Contact Us"" page.</li>
+            <li>Administrators can reach out to their Superadministrator or technical support contact.</li>
+        </ul>
+    </li>
+</ul>
+<p>We hope this guide helps you make the most of TableMaster! Enjoy your experience.</p>
+","[
+  {""q"":""How do I create an account on TableMaster?"",""a"":""Click the 'Login / Sign Up' button, then choose 'Sign up'. You'll need to provide your full name, a valid email address, and create a password (minimum 6 characters). After submitting, a One-Time Password (OTP) will be sent to your email. Enter this OTP on the verification page to activate your account. <em>Development Note: If email (SMTP) isn't configured on the server, the OTP might be logged to the server console, or you can use the test OTP '123456'.</em>""},
+  {""q"":""I forgot my password. What should I do?"",""a"":""On the login page, click the 'Forgot Password?' link. Enter your registered email address. If an account exists for that email, an OTP will be sent to you. Use this OTP on the 'Reset Password' page to set a new password for your account.""},
+  {""q"":""How can I view the restaurant's menu?"",""a"":""You can access the full menu by clicking the 'Menu' link in the header or navigating to the <code>/menu</code> page. The homepage might also feature sections like 'Explore Menu Categories' or 'Signature Dishes' that link to the menu.""},
+  {""q"":""How do I book a table?"",""a"":""Navigate to the 'Book a Table' (<code>/bookings</code>) page. You'll need to fill in your contact information, the desired date and time for your booking, and the number of guests in your party. You also have the option to pre-order items from the menu (including selecting specific portions like 'Small' or 'Large', which will reflect their respective prices) and add any special requests or notes. If you're not logged in, your booking details will be saved temporarily, and you'll be prompted to log in or sign up to finalize the booking request.""},
+  {""q"":""Can I order food for takeaway?"",""a"":""Yes! Go to the 'Menu' page (<code>/menu</code>). Browse the items, and if an item offers different portions (e.g., 'Half Plate', 'Full Plate', '250g'), you can select your preferred portion. The price for that specific portion will be used. Add items to your cart. When you're ready, open your cart and click 'Proceed to Checkout'. If you're not logged in, your cart will be saved, and you'll be prompted to log in or sign up to complete your takeaway order.""},
+  {""q"":""How does portion selection affect the price of menu items?"",""a"":""When a menu item offers multiple portions (e.g., 'Small', 'Regular', 'Large'), each portion is defined with its own specific price in the system. When you select a particular portion while ordering (either for takeaway or pre-ordering for a booking), the price associated with that chosen portion is applied to your cart or booking. The menu and cart will display this portion-specific price.""},
+  {""q"":""What are the restaurant's operating hours?"",""a"":""The restaurant's current operating hours are usually displayed on the homepage. This information is managed by administrators in the General Settings. Please check the homepage for the most up-to-date schedule, as it may vary for weekdays, Saturdays, and Sundays.""},
+  {""q"":""How can I track my orders or booking status?"",""a"":""If you are logged in, you can visit the 'My Orders' page (<code>/orders</code>) to see a list of your takeaway orders and their current status (e.g., Pending, Preparing, Ready for Pickup). For table bookings, you should receive email confirmations and updates if you provided your email address and notifications are enabled by the restaurant.""},
+  {""q"":""Who can access the Admin Panel?"",""a"":""Users with 'Admin' or 'Superadmin' roles have access to the Admin Panel. The specific features and settings available within the panel depend on the user's role and the permissions assigned to that role by a Superadmin.""},
+  {""q"":""What are the main responsibilities of an Administrator?"",""a"":""Administrators typically manage day-to-day restaurant operations. This includes using the Point of Sale (POS) terminal, managing menu items (including defining portions and their prices, using AI tools for content), handling table bookings, configuring restaurant tables, overseeing all customer orders, and managing basic user details for 'user' role accounts. They also have access to operational tools like inventory and expense tracking, and marketing features like discounts and offers.""},
+  {""q"":""What additional privileges does a Superadministrator have?"",""a"":""Superadministrators have all the capabilities of an Administrator, plus exclusive access to the System Settings. This allows them to configure fundamental aspects of the application, such as general restaurant information, visual themes, currency rates, invoice and printer setups (invoices will reflect portion-specific pricing), email notification preferences, server rate limiting, CSV data import/export (including menu items with detailed portion pricing), encryption status, user role and permission management (Access Control), homepage layout customization, and viewing server/client application logs.""},
+  {""q"":""How is application data stored in TableMaster?"",""a"":""In this prototype version of TableMaster, most application data (including menu items with their portion details and prices, orders, user accounts, all settings, etc.) is stored in CSV (Comma Separated Values) files located on the server. Superadministrators can manage this data directly via the 'Data Management' section in the Admin Settings, where they can download or upload these CSV files.""},
+  {""q"":""Is my password secure in this application?"",""a"":""<strong>Important Security Note:</strong> In this prototype version of TableMaster, passwords are unfortunately stored in PLAINTEXT within a CSV file on the server. This is done purely for demonstration and testing purposes and is <em>highly insecure</em>. You should NEVER use real, sensitive, or production passwords with this application. In a production-ready system, passwords would be securely hashed using strong, one-way cryptographic algorithms like bcrypt or Argon2.""},
+  {""q"":""Can I customize the look and feel of the application?"",""a"":""Yes, if you are a Superadministrator. Navigate to 'Admin Panel' -> 'Settings' -> 'Theme Management'. Here you can create, edit, and apply different visual themes, controlling colors for both light and dark modes across various UI components to match your restaurant's branding.""}
+]",[],false,false,50000,2500,10,false,false,false,https://placehold.co/600x400.png?text=Room+Booking+Section,false,1,0.1,1234

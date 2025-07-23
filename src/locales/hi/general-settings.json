@@ -1,0 +1,27 @@
+
+{
+  "pageTitle": "सामान्य सेटिंग्स",
+  "pageDescription": "अपने रेस्तरां की मूल जानकारी, वैश्विक मुद्रा और मीडिया URL प्रबंधित करें। ये सेटिंग्स सर्वर पर सहेजी जाती हैं और विश्व स्तर पर उपयोग की जाती हैं।",
+  "restaurantInfoTitle": "रेस्तरां की जानकारी",
+  "restaurantInfoDescription": "अपने रेस्तरां का नाम, पता, संपर्क विवरण और कानूनी नंबर अपडेट करें।",
+  "restaurantNameLabel": "रेस्तरां का नाम",
+  "restaurantNameDescription": "यह नाम वेबसाइट के शीर्षक और ब्रांडिंग के लिए उपयोग किया जाएगा।",
+  "addressLabel": "पता",
+  "phoneLabel": "फ़ोन नंबर",
+  "panLabel": "पैन नंबर",
+  "gstLabel": "जीएसटी नंबर",
+  "fssaiLabel": "एफएसएसएआई नंबर",
+  "autoLogoutLabel": "स्वतः लॉगआउट टाइमआउट (मिनट)",
+  "autoLogoutDescription": "स्वतः लॉगआउट से पहले निष्क्रियता की अवधि। अक्षम करने के लिए 0 पर सेट करें।",
+  "displayLangSettingsTitle": "वैश्विक प्रदर्शन और भाषा सेटिंग्स",
+  "displayLangSettingsDescription": "एप्लिकेशन में जानकारी प्रदर्शित करने के लिए उपयोग की जाने वाली मुद्रा और भाषा सेट करें।",
+  "displayCurrencyLabel": "प्रदर्शन मुद्रा",
+  "displayCurrencyPlaceholder": "प्रदर्शन मुद्रा चुनें",
+  "currentDisplaySymbolText": "वर्तमान प्रदर्शन प्रतीक:",
+  "baseCurrencyInfoText": "सभी मेनू आइटम की कीमतें {baseCurrency} में दर्ज और संग्रहीत की जाती हैं। यहां चुनी गई मुद्रा प्रदर्शन के लिए है, जिसे \"मुद्रा दरें\" सेटिंग्स से दरों का उपयोग करके परिवर्तित किया जाता है।",
+  "globalDisplayLanguageLabel": "वैश्विक प्रदर्शन भाषा",
+  "globalDisplayLanguagePlaceholder": "भाषा चुनें",
+  "globalDisplayLanguageInfoText": "यह सेटिंग मुख्य रूप से उत्पन्न चालानों पर स्थिर लेबल को प्रभावित करती है। पूर्ण एप्लिकेशन अनुवाद एक बड़ी सुविधा है।",
+  "saveButtonText": "सामान्य सेटिंग्स सहेजें",
+  "savingButtonText": "सहेजा जा रहा है..."
+}

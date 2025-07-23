@@ -1,0 +1,2 @@
+id,employeeId,name,designation,department,dateOfJoining,mappedUserId,baseSalary,salaryCalculationType
+emp-1d47a0a4,Tester,Tes1,Chef,,2025-06-09,user-480857c3,0,monthly

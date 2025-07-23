@@ -1,0 +1,27 @@
+
+{
+  "pageTitle": "General Settings",
+  "pageDescription": "Manage your restaurant's basic information, global currency, and media URLs. These settings are saved on the server and used globally.",
+  "restaurantInfoTitle": "Restaurant Information",
+  "restaurantInfoDescription": "Update your restaurant's name, address, contact details, and legal numbers.",
+  "restaurantNameLabel": "Restaurant Name",
+  "restaurantNameDescription": "This name will be used as the website title and for branding.",
+  "addressLabel": "Address",
+  "phoneLabel": "Phone Number",
+  "panLabel": "PAN Number",
+  "gstLabel": "GST Number",
+  "fssaiLabel": "FSSAI Number",
+  "autoLogoutLabel": "Auto-Logout Timeout (minutes)",
+  "autoLogoutDescription": "Duration of inactivity before auto-logout. Set to 0 to disable.",
+  "displayLangSettingsTitle": "Global Display & Language Settings",
+  "displayLangSettingsDescription": "Set the currency and language used for displaying information throughout the application.",
+  "displayCurrencyLabel": "Display Currency",
+  "displayCurrencyPlaceholder": "Select Display Currency",
+  "currentDisplaySymbolText": "Current Display Symbol:",
+  "baseCurrencyInfoText": "All menu item prices are entered and stored in {baseCurrency}. The currency selected here is for display, converted using rates from \"Currency Rates\" settings.",
+  "globalDisplayLanguageLabel": "Global Display Language",
+  "globalDisplayLanguagePlaceholder": "Select Language",
+  "globalDisplayLanguageInfoText": "This setting primarily affects static labels on generated invoices. Full application translation is a larger feature.",
+  "saveButtonText": "Save General Settings",
+  "savingButtonText": "Saving..."
+}

@@ -1,0 +1,26 @@
+
+{
+  "pageTitle": "My Attendance",
+  "pageDescription": "Mark your daily check-in and check-out here.",
+  "welcomeMessage": "Welcome, {{name}}",
+  "employeeIdLabel": "Your Employee ID: {{id}}",
+  "todaysStatusTitle": "Today's Status ({{date}})",
+  "notCheckedIn": "You have not checked in today.",
+  "checkedInAt": "✅ Checked in at: <strong>{{time}}</strong>",
+  "checkedOutAt": "✅ Checked out at: <strong>{{time}}</strong>",
+  "alreadyCheckedOut": "Already Checked Out for Today",
+  "requestOtpToCheckIn": "Request OTP to Check-in",
+  "requestOtpToCheckOut": "Request OTP to Check-out",
+  "otpSentTitle": "OTP Sent!",
+  "otpSentDescription": "Please check your email for the 6-digit OTP. The developer test OTP is 123456 if emails are not configured.",
+  "otpInputPlaceholder": "Enter 6-digit OTP",
+  "verifyButton": "Verify & Confirm",
+  "resendOtpButton": "Resend OTP",
+  "resendOtpCooldown": "Resend OTP in {{cooldown}}s",
+  "errorLoadingData": "Error Loading Data",
+  "attendanceNotAvailableTitle": "Attendance Not Available",
+  "noProfileLinkedTitle": "No Employee Profile Linked",
+  "noProfileLinkedDescription": "Your user account is not linked to an employee profile. Please contact your administrator to set up your profile for attendance marking.",
+  "errorVerificationFailedTitle": "Verification Failed",
+  "successTitle": "Success!"
+}

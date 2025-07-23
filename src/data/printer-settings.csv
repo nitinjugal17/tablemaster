@@ -1,0 +1,2 @@
+id,name,connectionType,ipAddress,port,paperWidth,autoCut,linesBeforeCut,openCashDrawer,dpi
+53bca44c-d5bb-4871-b8c8-a4962f28e688,New Printer 1,system,,,80mm,partial_cut,2,disabled,203

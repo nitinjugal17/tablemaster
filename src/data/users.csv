@@ -1,0 +1,4 @@
+id,email,password,role,name,phone,accountStatus,loyaltyPoints
+user-superadmin-001,super@example.com,superadmin123qwerty@#,superadmin,Super Admin,,active,99
+user-480857c3,test@example.com,password123qwerty@#,admin,Tes1,,active,0
+user-301b3b0b,sekiz@sekiz.in,password123qwerty@#,user,Tes1,,pending_verification,0

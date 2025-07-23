@@ -1,0 +1,3 @@
+id,name,description,addons
+ag-1,Pizza Toppings,Extra toppings for your pizza.,"[{""id"":""addon-1"",""name"":""Pepperoni"",""price"":2},{""id"":""addon-2"",""name"":""Mushrooms"",""price"":1.5},{""id"":""addon-3"",""name"":""Extra Cheese"",""price"":1.75}]"
+ag-2,Salad Dressings,Choose your dressing.,"[{""id"":""addon-4"",""name"":""Ranch"",""price"":0},{""id"":""addon-5"",""name"":""Vinaigrette"",""price"":0}]"
