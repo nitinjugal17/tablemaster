@@ -3,7 +3,7 @@
 
 ![TableMaster Dashboard](https://github.com/nitinjugal17/tablemaster/blob/master/public/Screenshot%202025-07-23%20163858.png?raw=true)
 ![TableMaster Dashboard](https://github.com/nitinjugal17/tablemaster/blob/master/public/Screenshot%202025-07-23%20163700.png)
-![TableMaster Dashboard](https://github.com/nitinjugal17/tablemaster/blob/master/public/Screenshot%202025-07-23%20163623.png)
+![TableMaster Dashboard](https://github.com/nitinjugal17/tablemaster/blob/master/public/Screenshot%202025-07-23%20163651.png)
 ![TableMaster Dashboard](https://github.com/nitinjugal17/tablemaster/blob/master/public/Screenshot%202025-07-23%20163623.png)
 ![TableMaster Dashboard](https://github.com/nitinjugal17/tablemaster/blob/master/public/Screenshot%202025-07-23%20163911.png)
 ![TableMaster Dashboard](https://github.com/nitinjugal17/tablemaster/blob/master/public/Screenshot%202025-07-23%20163542.png)
