@@ -1,7 +1,7 @@
 
 # TableMaster: The All-in-One Restaurant Management System
 
-![TableMaster Dashboard](public/Screenshot 2025-07-23 163911.png)
+![TableMaster Dashboard](https://github.com/nitinjugal17/tablemaster/blob/master/public/Screenshot%202025-07-23%20163858.png?raw=true)
 *<p align="center">A placeholder image showcasing the app's interface. Replace with a real screenshot.</p>*
 
 **TableMaster** is a modern, feature-rich, and highly customizable web application designed to be the central nervous system for any restaurant. From managing table reservations and takeaway orders to tracking inventory, handling HR tasks, and leveraging AI for menu creation, TableMaster provides a comprehensive suite of tools to streamline restaurant operations.
